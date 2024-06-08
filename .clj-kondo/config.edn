@@ -1,0 +1,2 @@
+{:lint-as {korma.db/defdb clojure.core/def
+           korma.core/defentity clojure.core/def}}
